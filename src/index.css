@@ -8,5 +8,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #272727;
+  background-image: url("https://i.pinimg.com/originals/b9/bc/83/b9bc8397fa951c0002c7b397ea3ee76f.jpg");
+  background-size: cover;
+  /* background-color: #272727; */
 }
